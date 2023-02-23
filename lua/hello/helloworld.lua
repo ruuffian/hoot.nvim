@@ -1,3 +1,3 @@
 local M = {}
-function M.sayHelloWorld() print('Hello World!!') end
+function M.sayHelloWorld() print('Pushing to github works!') end
 return M
