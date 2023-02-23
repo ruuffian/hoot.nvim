@@ -4,6 +4,6 @@ nvim --cmd "set rtp+=$(pwd)"
 
 ### Example "Hello World!"
 
-:lua require("hello").sayHelloWorld()
+:AlphaHelloWorld
 
 Voila! A basic NeoVim hello-world plugin!
